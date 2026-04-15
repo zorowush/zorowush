@@ -4,9 +4,9 @@
 </div>
 
 <!-- Typing SVG -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Hi+there,+I'm+Zurfa+Ahmad+👋;Fullstack+Developer+💻;Crafting+beautiful+UI%2FUX+designs+✨;Exploring+AI+and+System+Design+🚀" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=700&lines=Hi%20there%2C%20I'm%20Zurfa%20Ahmad%20%F0%9F%91%8B;Fullstack%20Developer%20%F0%9F%92%BB;Crafting%20beautiful%20UI%2FUX%20designs%20%E2%9C%A8;Exploring%20AI%20and%20System%20Design%20%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
 <!-- Animated GIF & Intro -->
 <div align="center">
