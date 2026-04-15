@@ -1,12 +1,98 @@
-# 💫 About Me:
-🔭 I’m currently working on  <br>Developing simple AI-based tools, designing UI/UX in Figma, and building dynamic web projects using HTML, CSS, JavaScript, and Laravel.<br><br>👯 I’m looking to collaborate on  <br>Web development projects, UI/UX design, and any creative tech projects that involve frontend, backend, or AI automation.<br><br>🤝 I’m looking for help with  <br>Improving my backend skills, building more efficient APIs, and enhancing my knowledge in system design & clean architecture.<br><br>🌱 I’m currently learning  <br>Laravel, RESTful API, JavaScript deep dive, UI/UX design fundamentals, and implementing AI features into real-world applications.<br><br>💬 Ask me about  <br>Frontend development, UI/UX design, Figma, simple AI tools, or advice on building beginner-friendly projects.<br><br>⚡ Fun fact  <br>I love turning random ideas into mini apps, and I can spend hours improving a design even if only 2 pixels look off. 😄<br>
+<!-- Header Animation -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Zurfa%20Ahmad&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Fullstack%20Developer%20|%20UI/UX%20Designer&descAlignY=70&descAlign=50" width="100%" />
+</div>
+
+<!-- Typing SVG -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Hi+there,+I'm+Zurfa+Ahmad+👋;Fullstack+Developer+💻;Crafting+beautiful+UI%2FUX+designs+✨;Exploring+AI+and+System+Design+🚀" alt="Typing SVG" />
+</h1>
+
+<!-- Animated GIF & Intro -->
+<div align="center">
+  <img src="https://media.giphy.com/media/vgq804BqL54Zt0WmdL/giphy.gif" alt="Animated Coding Silhouette" width="220" />
+</div>
+<br>
+
+<!-- View Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=zorowush&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<!-- Social Links -->
+<div align="center">
+  <br>
+  <a href="https://instagram.com/zur_zuhri"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://linkedin.com/in/ZurfaAhmad"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</div>
+
+<br>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=zorowush&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **Developing AI-based tools, designing UI/UX in Figma, and building Fullstack web projects**.
+- 👯 I’m looking to collaborate on **Fullstack development projects, UI/UX design, and AI automation**.
+- 🤝 I’m looking for help with **Improving my backend architecture, building robust APIs, and system design**.
+- 🌱 I’m currently learning **Laravel, RESTful APIs, JavaScript deep dive, and UI/UX design fundamentals**.
+- 💬 Ask me about **Frontend & Backend development, Figma, or building beginner-friendly projects**.
+- ⚡ Fun fact: **I love turning random ideas into mini apps, and I can spend hours tweaking a design even if only 2 pixels look off! 😄**
+
+<br>
+
+---
+
+### 🎮 GitHub Contribution Animations
+
+<div align="center">
+  <h4>🐍 Github Snake Animation</h4>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zorowush/zorowush/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zorowush/zorowush/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zorowush/zorowush/output/github-contribution-grid-snake.svg">
+  </picture>
+  
+  <br><br>
+  <h4>🕹️ Github Pacman Animation</h4>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zorowush/zorowush/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zorowush/zorowush/output/pacman-contribution-graph.svg">
+    <img alt="github contribution grid pacman animation" src="https://raw.githubusercontent.com/zorowush/zorowush/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zur_zuhri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ZurfaAhmad) 
+<br>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
+---
 
+### 🛠️ Tech Stack & Tools
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java" alt="Core Languages" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,laravel,django,flask,wordpress" alt="Frameworks & CMS" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,nginx,apache" alt="Databases & Tools" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=figma,ps,sklearn,tensorflow" alt="Design & AI" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zorowush&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zorowush&theme=tokyonight&hide_border=true&background=0D1117" height="150" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<!-- Footer Animation -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=24&fontAlignY=80" width="100%" />
+</div>
