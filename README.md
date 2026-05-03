@@ -28,10 +28,6 @@
 
 <br>
 
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zorowush&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **Developing AI-based tools, designing UI/UX in Figma, and building Fullstack web projects**.
@@ -88,7 +84,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zorowush&show_icons=true&theme=tokyonight&hide_border=true&locale=en" height="150" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=zorowush&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
 
