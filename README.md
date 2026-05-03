@@ -91,12 +91,12 @@
 ### 📊 My GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zorowush&show_icons=true&theme=tokyonight&hide_border=true&locale=en" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=zorowush&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zorowush&theme=tokyonight" height="180" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=zorowush&theme=tokyonight" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zorowush&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=zorowush&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
 </p>
 
 <br>
