@@ -19,6 +19,13 @@
   <img src="https://komarev.com/ghpvc/?username=zorowush&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
 
+<br>
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zorowush&theme=tokyonight&no-bg=true&column=6&margin-w=15" alt="GitHub Trophies" />
+</div>
+
 <!-- Social Links -->
 <div align="center">
   <br>
@@ -81,10 +88,22 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Dashboard
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zorowush&show_icons=true&theme=tokyonight&hide_border=true&locale=en" height="150" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=zorowush&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zorowush&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+</p>
+
+<br>
+
+### 💡 Quote of the Day
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
 </div>
 
 <br>
