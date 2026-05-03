@@ -1,6 +1,6 @@
 <!-- Header Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Zurfa%20Ahmad&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Fullstack%20Developer%20|%20UI/UX%20Designer&descAlignY=70&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Zurfa%20Ahmad&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Fullstack%20Developer%20|%20Software%20Engineer&descAlignY=70&descAlign=50" width="100%" />
 </div>
 
 <!-- Typing SVG -->
