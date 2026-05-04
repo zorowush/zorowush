@@ -92,7 +92,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zorowush&theme=tokyonight" height="180" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=zorowush&theme=tokyonight" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
